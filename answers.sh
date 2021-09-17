@@ -22,13 +22,13 @@ mkdir Programs/C++
 mv Programs/Age.cpp Programs/C++/Age.cpp
 
 # Task 7
-cp Programs/Java Homework/CS180/Project_1
+mv Programs/Java Homework/CS180/Project_1
 
 # Task 8
-mv Programs/*.c Programs/C/*.c
+mv Progams/Count.c, Programs/Goodbye.c Programs/C/
 
 # Task 9
-mv Programs/*.py Programs/Python_3/*.py
+mv Programs/Name.py, Programs/Space.py Programs/Python_3/
 
 # Task 10
 touch Homework/POL141/Essay.txt
@@ -42,6 +42,7 @@ Type your vim/nano customizations below:
 set autoread
 set clipboard=unnamed,unnamedplus
 set mouse=a
+
 
 
 '
